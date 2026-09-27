@@ -29,12 +29,6 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
-# Model artifacts
-*.pkl
-*.joblib
-credit_risk_model.pkl
-best_threshold.pkl
-
 # Build/dist
 build/
 dist/
